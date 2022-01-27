@@ -2,7 +2,7 @@
 
 ## Contact
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:dtclifton@pm.me)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dtclifton)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dtclifton)
 
 
 
